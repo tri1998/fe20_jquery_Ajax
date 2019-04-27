@@ -1,4 +1,9 @@
 $(document).ready(function(){
+
+    function taoMoiHam(){
+        
+    }
+
     var nguoiDungService = new NguoiDungService();
 
     layDanhSachNguoiDung();
